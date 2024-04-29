@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharan19&label=Profile%20views&color=0e75b6&style=flat" alt="saicharan19" /> </p>
 
-- 🌱 I’m currently learning **SQLite**
+- 🌱 I’m currently learning **Salesforce**
 
-- 💬 Ask me about **Python, HTML, CSS, Bootstrap, Java Script**
+- 💬 Ask me about **Java, Python, HTML, CSS, Bootstrap, JavaScript, SQLite**
 
 - 📫 How to reach me **saicharankadiyala@gmail.com**
 
